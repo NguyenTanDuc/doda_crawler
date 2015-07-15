@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+  <%= link_to t(:get_data), new_home_path %>
+  <%= link_to t(:export), export_path(format: :xlsx) %>
+  <%= link_to "To CSV", export_path(format: :csv) %>
+</body>
+</html>

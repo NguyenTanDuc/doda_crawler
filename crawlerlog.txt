@@ -1,0 +1,74 @@
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001027461/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001027037/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001011103/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000964502/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001015407/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001026812/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001009787/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000981916/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001030063/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000908213/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001021489/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001025070/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001027512/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001015495/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001008341/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001005075/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001012418/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001010042/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001003180/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001001398/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001001777/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000998224/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3001000077/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000988081/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000994405/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000987747/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000995247/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000988645/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000988051/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000979331/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000972559/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000984346/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000964323/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000966249/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000967679/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `search' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000968328/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
+undefined method `[]' for nil:NilClass in url http://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3000966067/-fm__list/-tp__1/-mtmd__0/
+---------------------------------------
